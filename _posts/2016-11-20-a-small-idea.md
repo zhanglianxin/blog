@@ -1,6 +1,6 @@
 ---
 layout: post-zh
-title: A Small Idea
+title: A small idea
 ---
 
 突然间有一个想法：用 AngularJS 能不能让静态博客活起来呢？

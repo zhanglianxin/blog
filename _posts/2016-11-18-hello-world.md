@@ -1,6 +1,6 @@
 ---
 layout: post-zh
-title: Hello World
+title: Hello world
 ---
 
 好吧，这是主要内容。
