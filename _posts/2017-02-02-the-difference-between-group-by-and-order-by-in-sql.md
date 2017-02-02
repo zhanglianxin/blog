@@ -99,7 +99,7 @@ SQL> SELECT NAME, SUM(SALARY) FROM CUSTOMERS
 +---------+-------------+
 ```
 
-## [what is the difference between GROUP BY and ORDER BY in sql](http://stackoverflow.com/questions/1277460/what-is-the-difference-between-group-by-and-order-by-in-sql)
+## [what is the difference between GROUP BY and ORDER BY in sql](//stackoverflow.com/questions/1277460/what-is-the-difference-between-group-by-and-order-by-in-sql)
 
 * http://stackoverflow.com/a/1277482
 
