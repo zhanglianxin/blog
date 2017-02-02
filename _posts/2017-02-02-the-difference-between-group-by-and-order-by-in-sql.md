@@ -200,7 +200,7 @@ SQL> SELECT NAME, SUM(SALARY) FROM CUSTOMERS
   +----+----------+-----+-----------+----------+
   ```
 
-  如果要将相同的名称分组为单个名称，则GROUP BY查询将如下所示：
+  如果要将相同的名称分组为单个名称，则 GROUP BY 查询将如下所示：
 
   ```sql
   SQL> SELECT * FROM CUSTOMERS
