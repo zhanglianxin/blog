@@ -19,6 +19,8 @@ title: 保持编码中的创造力
 
 一直以来，每周工作 100+ 小时将是完成一个项目所必需的。不要让那样成为常态。如果你注意到你的团队中的某人（无论是直接下属还是同事），有倦怠的迹象，推动他们花几天时间给自己充充电。Autonomous workers are more creative and more successful than those that are constantly micromanaged.（**自主工作者比那些需要不断地微观管理的工作者更具创造性和更成功。**）
 
+![img](//7xpc5m.com1.z0.glb.clouddn.com/autonomous.png)
+
 ### 牢记一个问题有多种解决方案
 
 As the old saying goes, there’s more than one way to skin a cat.（俗话说，有不只一种方式可以帮猫剥皮，『不只一种方式达成目标』。）这种相同的范式应该用于解决问题。如果你与初级开发人员共事，很容易从他们的角度来看他们遇到的问题。用你的知识帮助他们得到答案非常棒。然而，不要告诉他们应该做什么，而是问他们认为应该做什么。专注于过程而不是解决方案，不仅有助他们自我思考，而且有助于鼓励他们具有创造力。
