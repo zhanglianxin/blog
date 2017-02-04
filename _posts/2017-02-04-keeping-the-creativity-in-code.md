@@ -19,7 +19,7 @@ title: 保持编码中的创造力
 
 一直以来，每周工作 100+ 小时将是完成一个项目所必需的。不要让那样成为常态。如果你注意到你的团队中的某人（无论是直接下属还是同事），有倦怠的迹象，推动他们花几天时间给自己充充电。Autonomous workers are more creative and more successful than those that are constantly micromanaged.（**自主工作者比那些需要不断地微观管理的工作者更具创造性和更成功。**）
 
-![img](//7xpc5m.com1.z0.glb.clouddn.com/autonomous.png)
+![img](http://7xpc5m.com1.z0.glb.clouddn.com/autonomous.png)
 
 ### 牢记一个问题有多种解决方案
 
