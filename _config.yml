@@ -1,1 +1,18 @@
-# Setuptitle:        Coolman tagline:      TECHNICALLY-ORIENTED baseurl:      ""paginate:     5# About/contactauthor:  name:       zhanglianxin   url:        //github.com/zhanglianxin/ # Gemsgems:  - jekyll-paginate   - jekyll-sitemap #Othersmarkdown: kramdown 
+# Setup
+title:        Coolman 
+tagline:      TECHNICALLY-ORIENTED 
+baseurl:      ""
+paginate:     5
+
+# About/contact
+author:
+  name:       zhanglianxin 
+  url:        //github.com/zhanglianxin/ 
+
+# Gems
+gems:
+  - jekyll-paginate 
+  - jekyll-sitemap 
+
+#Others
+markdown: kramdown 
