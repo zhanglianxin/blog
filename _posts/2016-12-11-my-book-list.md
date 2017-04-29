@@ -5,35 +5,35 @@ title: 我的书单
 
 * 技术系列：
 
-  [《深入理解Java虚拟机：JVM高级特性与最佳实践（第2版）》](//product.dangdang.com/23259731.html)
+  [《深入理解 Java 虚拟机：JVM 高级特性与最佳实践（第 2 版）》](//product.dangdang.com/23259731.html)
 
   [《Android 移动应用基础教程》](//www.amazon.cn/gp/product/B00UTARDU6)
 
-  [《GitHub入门与实践》](//www.amazon.cn/gp/product/B011LPUB4M)
+  [《GitHub 入门与实践》](//www.amazon.cn/gp/product/B011LPUB4M)
 
-  [《深入分析Java Web技术内幕(修订版)》](//www.amazon.cn/gp/product/B00MHJJRTC)
+  [《深入分析 Java Web 技术内幕（修订版）》](//www.amazon.cn/gp/product/B00MHJJRTC)
 
-  [《第一行代码:Android》](//www.amazon.cn/gp/product/B00LVHTI9U)
+  [《第一行代码：Android》](//www.amazon.cn/gp/product/B00LVHTI9U)
 
-  [《Spring实战(第4版)》](//www.amazon.cn/gp/product/B01DN3VR6G)
+  [《Spring 实战（第 4 版）》](//www.amazon.cn/gp/product/B01DN3VR6G)
 
-  [《批处理在提高Windows管理效率中的神奇应用》](//item.taobao.com/item.htm?id=17398617036)
+  [《批处理在提高 Windows 管理效率中的神奇应用》](//item.taobao.com/item.htm?id=17398617036)
 
-  [《Modern PHP(中文版)》](//detail.tmall.com/item.htm?id=524025707058)
+  [《Modern PHP（中文版）》](//detail.tmall.com/item.htm?id=524025707058)
 
-  [《Effective Java(第2版 英文版)》](//detail.tmall.com/item.htm?id=531548271102)
+  [《Effective Java（第 2 版 英文版）》](//detail.tmall.com/item.htm?id=531548271102)
 
-  [《Docker技术入门与实战》](//detail.tmall.com/item.htm?id=43126933308)
+  [《Docker 技术入门与实战》](//detail.tmall.com/item.htm?id=43126933308)
 
-  ~~[《PHP编程(第3版)》](//detail.tmall.com/item.htm?id=44372460589)~~
+  ~~[《PHP编程（第 3 版）》](//detail.tmall.com/item.htm?id=44372460589)~~
 
   [《重构 改善既有代码的设计》](//detail.tmall.com/item.htm?id=521242106575)
 
-  [《Python编程 从入门到实践》](//detail.tmall.com/item.htm?id=535882394166)
+  [《Python 编程 从入门到实践》](//detail.tmall.com/item.htm?id=535882394166)
 
-  [《JavaScript语言精粹（修订版）](//item.jd.com/11090963.html)
+  [《JavaScript 语言精粹（修订版）》](//item.jd.com/11090963.html)
 
-  ~~[《ES 6 标准入门（第2版）》](//detail.tmall.com/item.htm?id=537467303650)~~
+  ~~[《ES 6 标准入门（第 2 版）》](//detail.tmall.com/item.htm?id=537467303650)~~
 
 
 * 非技术系列：
