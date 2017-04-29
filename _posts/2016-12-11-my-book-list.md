@@ -29,6 +29,12 @@ title: 我的书单
 
   [《重构 改善既有代码的设计》](//detail.tmall.com/item.htm?id=521242106575)
 
+  [《Python编程 从入门到实践》](//detail.tmall.com/item.htm?id=535882394166)
+
+  [《JavaScript语言精粹（修订版）](//item.jd.com/11090963.html)
+
+  ~~[《ES 6 标准入门（第2版）》](//detail.tmall.com/item.htm?id=537467303650)~~
+
 
 * 非技术系列：
 
@@ -58,4 +64,9 @@ title: 我的书单
 
   [《黑客与画家》](//detail.tmall.com/item.htm?id=10318726738)
 
-  ​
+  [《人生所有经过的路，都是必经之路》](//product.dangdang.com/24104242.html)
+
+  [《乌合之众：大众心理研究》](//product.dangdang.com/8851357.html)
+
+  [《愿人生从容》](//product.dangdang.com/24049917.html)
+
