@@ -5,7 +5,7 @@ title: 在 Debian 8 上安装 Nginx
 
 > 原文： [《How To Install Linux, Nginx, MySQL, PHP (LEMP Stack) on Debian 8》](https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-on-debian-8)
 
-## 安装 Nginx web 服务器
+## 安装 Nginx Web 服务器
 
 略。
 
@@ -15,7 +15,7 @@ title: 在 Debian 8 上安装 Nginx
 
 ## 安装 PHP 进行处理
 
-由于 Nginx 不像其他 web 服务器那样包含本地 PHP 处理，所以我们需要安装 `fpm`，代表”fastCGI 进程管理器“。我们会告诉 Nginx 将 PHP 请求传递给这个软件进行处理。我们还将安装一个额外的帮助程序包，允许 PHP 与我们的 MySQL 数据库后端进行通信。该安装将拉入必要的 PHP 核心文件来完成这项工作。
+由于 Nginx 不像其他 Web 服务器那样包含本地 PHP 处理，所以我们需要安装 `fpm`，代表”fastCGI 进程管理器“。我们会告诉 Nginx 将 PHP 请求传递给这个软件进行处理。我们还将安装一个额外的帮助程序包，允许 PHP 与我们的 MySQL 数据库后端进行通信。该安装将拉入必要的 PHP 核心文件来完成这项工作。
 
 安装 `php5-fpm` 和 `php5-mysql` 模块：
 
