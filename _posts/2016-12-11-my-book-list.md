@@ -31,7 +31,7 @@ title: 我的书单
 
   [《Python 编程 从入门到实践》](//detail.tmall.com/item.htm?id=535882394166)
 
-  ~~[《JavaScript 语言精粹（修订版）》](//item.jd.com/11090963.html "大部分翻译得比较晦涩")~~
+  ~~[《JavaScript 语言精粹（修订版）》](//item.jd.com/11090963.html "大部分翻译得比较晦涩")~~
 
   ~~[《ES 6 标准入门（第 2 版）》](//detail.tmall.com/item.htm?id=537467303650)~~
 
