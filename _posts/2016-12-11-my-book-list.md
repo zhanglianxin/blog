@@ -68,5 +68,5 @@ title: 我的书单
 
   [《乌合之众：大众心理研究》](//product.dangdang.com/8851357.html)
 
-  ~~[《愿人生从容》](//product.dangdang.com/24049917.html "风格不喜欢")~~
+  ~~[《愿人生从容》](//product.dangdang.com/24049917.html "风格不喜欢")~~
 
