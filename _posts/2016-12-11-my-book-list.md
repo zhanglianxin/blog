@@ -35,13 +35,13 @@ title: 我的书单
 
   ~~[《ES 6 标准入门（第 2 版）》](//detail.tmall.com/item.htm?id=537467303650)~~
 
-  [《Head First 设计模式（中文版）》](https://detail.tmall.com/item.htm?id=530869856349)
+  [《Head First 设计模式（中文版）》](https://detail.tmall.com/item.htm?id=530869856349)
 
-  [《企业应用架构模式》](https://item.jd.com/10060232.html)
+  [《企业应用架构模式》](https://item.jd.com/10060232.html)
 
-  [《Linux 命令行与 shell 脚本编程大全（第3版）》](https://item.jd.com/12010266.html)
+  [《Linux 命令行与 shell 脚本编程大全（第3版）》](https://item.jd.com/12010266.html)
 
-  [《移动 Web 前端高效开发实战：HTML 5 + CSS 3 + JavaScript + Webpack + React Native + Vue.js + Node.js》](https://item.taobao.com/item.htm?id=557454060051)
+  [《移动 Web 前端高效开发实战：HTML 5 + CSS 3 + JavaScript + Webpack + React Native + Vue.js + Node.js》](https://item.taobao.com/item.htm?id=557454060051)
 
 * 非技术系列：
 
@@ -77,4 +77,4 @@ title: 我的书单
 
   ~~[《愿人生从容》](//product.dangdang.com/24049917.html "风格不喜欢")~~
 
-  [《深度工作：如何有效使用每一点脑力》](https://detail.tmall.com/item.htm?id=552227361826)
+  [《深度工作：如何有效使用每一点脑力》](https://detail.tmall.com/item.htm?id=552227361826)
