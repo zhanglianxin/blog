@@ -65,7 +65,7 @@ title: 我的书单
 
   [《断舍离》](//product.dangdang.com/23271503.html)
 
-  [《互联网+：国家战略行动路线图》](//item.taobao.com/item.htm?id=45287599742)
+  ~~[《互联网+：国家战略行动路线图》](//item.taobao.com/item.htm?id=45287599742)~~
 
   [《蒋介石与现代中国》](//item.taobao.com/item.htm?id=45332728067)
 
