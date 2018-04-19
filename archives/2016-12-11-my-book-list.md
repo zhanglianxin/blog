@@ -65,7 +65,7 @@ title: 我的书单
 
   [《断舍离》](//product.dangdang.com/23271503.html)
 
-  ~~[《互联网+：国家战略行动路线图》](//item.taobao.com/item.htm?id=45287599742)~~
+  ~~[《互联网+：国家战略行动路线图》](//item.taobao.com/item.htm?id=45287599742)~~
 
   [《蒋介石与现代中国》](//item.taobao.com/item.htm?id=45332728067)
 
@@ -78,3 +78,5 @@ title: 我的书单
   ~~[《愿人生从容》](//product.dangdang.com/24049917.html "风格不喜欢")~~
 
   [《深度工作：如何有效使用每一点脑力》](https://detail.tmall.com/item.htm?id=552227361826)
+
+  [《打敗笨懶慢：老闆沒法教的做事竅門》](https://www.amazon.cn/dp/4396316348/ "购于孔夫子旧书网")
