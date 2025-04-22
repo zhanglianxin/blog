@@ -1,0 +1,41 @@
+name: Check Issue Creator
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  check-creator:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check if issue creator is authorized
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            // Get authorized users list from repository variables
+            const authorizedUsers = '${{ vars.AUTHORIZED_USERS }}'.split(',');
+            const issueCreator = context.payload.issue.user.login;
+            const repoOwner = context.repo.owner;
+
+
+            if (issueCreator === repoOwner || authorizedUsers.includes(issueCreator)) {
+              console.log(`Authorized user ${issueCreator} created an issue.`);
+              return;
+            }
+            
+            await github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: 'Sorry, only authorized users can create issues.'
+            });
+            
+            await github.rest.issues.update({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'closed'
+            });
+
+            console.log(`Closed issue #${context.issue.number} created by unauthorized user ${issueCreator}`);
